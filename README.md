@@ -1,11 +1,11 @@
 <h1 align="center">Hi 👋, I'm Abhishek Kumar</h1>
-<h3 align="center">A passionate frontend developer from India</h3>
+<h3 align="center">A passionate engineer from India</h3>
 
-- 🔭 I’m currently working on **Twitter Clone**
+- 🔭 I’m currently working on **Data Engineering and Java FullStack**
 
-- 🌱 I’m currently learning **NodeJs and MongoDB**
+- 🌱 I’m currently learning **ETLs and Spring MVC**
 
-- 💬 Ask me about **react,javaScript,Data structure and Algorithm**
+- 💬 Ask me about **SQL,OOPS,machine learning,Data structure and Algorithm**
 
 - 📫 How to reach me **abhi941183@gmail.com**
 
