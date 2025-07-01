@@ -1,17 +1,17 @@
 <h1 align="center">Hi 👋, I'm Abhishek Kumar</h1>
 <h3 align="center">A passionate engineer from India</h3>
 
-- 🔭 I’m currently working on **Data Engineering and Java FullStack**
+- 🔭 I’m currently working on **Data Engineering , AI and WebDev**
 
-- 🌱 I’m currently learning **ETLs and Spring MVC**
+- 🌱 I’m currently learning **NextJS and Agentic AI**
 
-- 💬 Ask me about **SQL,OOPS,machine learning,Data structure and Algorithm**
+- 💬 Ask me about **SQL,Machine Learning,Data Engineering and AI**
 
-- 📫 How to reach me **abhi941183@gmail.com**
+- 📫 How to reach me **Abhi941183@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://linkedin.com/in/https://www.linkedin.com/in/abhishek-bankawat-8175a016a/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/abhishek-bankawat-8175a016a/" height="30" width="40" /></a>
+<a href="https://linkedin.com/in/https://www.linkedin.com/in/abhibank/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/abhibank/" height="30" width="40" /></a>
 <a href="https://www.leetcode.com/https://leetcode.com/_191500027/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="https://leetcode.com/_191500027/" height="30" width="40" /></a>
 </p>
 
