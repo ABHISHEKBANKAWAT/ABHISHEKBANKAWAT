@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm Abhishek Kumar</h1>
 <h3 align="center">A passionate engineer from India</h3>
-<a href="https://abhishekbankawat.github.io/abhishek-portfolio/#" target="blank"><img align="center" alt="https://abhishekbankawat.github.io/abhishek-portfolio/#" height="30" width="40" /> Website</a>
+<a href="https://abhishekbankawat.github.io/abhishek-portfolio/#"/> Website</a>
 
 - 🔭 I’m currently working on **Data Engineering , AI and WebDev**
 
